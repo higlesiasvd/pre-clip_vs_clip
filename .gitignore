@@ -1,0 +1,26 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+ENV/
+
+
+# Caché de modelos
+.cache/
+*.pth
+*.bin
+*.onnx
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

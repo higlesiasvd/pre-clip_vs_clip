@@ -1,0 +1,20 @@
+services:
+  practica2:
+    build: .
+    image: practica2-clip
+    container_name: practica2-container
+    volumes:
+      - ./dataset:/app/dataset:ro
+      - ./results:/app/results
+      - model-cache:/root/.cache  # Cache de modelos persistente
+    shm_size: '4gb'  # Aumentado a 4GB
+    mem_limit: '6g'  # Límite de memoria total
+    environment:
+      - PYTHONUNBUFFERED=1
+      - OMP_NUM_THREADS=1
+      - MKL_NUM_THREADS=1
+      - TOKENIZERS_PARALLELISM=false
+    command: echo "Usa 'docker compose run practica2 python3 <script.py>'"
+
+volumes:
+  model-cache:  # Volumen persistente para no re-descargar modelos

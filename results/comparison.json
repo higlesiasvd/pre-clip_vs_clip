@@ -1,0 +1,14 @@
+{
+  "preclip": {
+    "accuracy": 0.0,
+    "similarity": 0.00099517866378141
+  },
+  "clip": {
+    "accuracy": 1.0,
+    "similarity": 0.30713099241256714
+  },
+  "improvement": {
+    "accuracy": 1.0,
+    "similarity": 0.30613581374878573
+  }
+}

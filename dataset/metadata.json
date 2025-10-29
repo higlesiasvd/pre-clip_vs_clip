@@ -1,0 +1,102 @@
+[
+  {
+    "image": "urban_scenes/image_01.jpeg",
+    "caption": "A busy city street filled with cars and pedestrians during rush hour",
+    "category": "Urban Scenes"
+  },
+  {
+    "image": "urban_scenes/image_02.jpeg",
+    "caption": "Modern skyscrapers reflecting sunlight in the downtown area",
+    "category": "Urban Scenes"
+  },
+  {
+    "image": "urban_scenes/image_03.jpeg",
+    "caption": "A subway station with people waiting on the platform",
+    "category": "Urban Scenes"
+  },
+  {
+    "image": "urban_scenes/image_04.jpeg",
+    "caption": "Street vendors selling food at a night market",
+    "category": "Urban Scenes"
+  },
+  {
+    "image": "urban_scenes/image_05.jpeg",
+    "caption": "A bridge crossing over a river in the city center",
+    "category": "Urban Scenes"
+  },
+  {
+    "image": "nature/image_06.jpeg",
+    "caption": "A peaceful mountain landscape with snow-covered peaks",
+    "category": "Nature"
+  },
+  {
+    "image": "nature/image_07.jpeg",
+    "caption": "Dense forest with tall trees and morning mist",
+    "category": "Nature"
+  },
+  {
+    "image": "nature/image_08.jpeg",
+    "caption": "A serene lake reflecting the surrounding mountains",
+    "category": "Nature"
+  },
+  {
+    "image": "nature/image_09.jpeg",
+    "caption": "Colorful sunset over the ocean waves",
+    "category": "Nature"
+  },
+  {
+    "image": "nature/image_10.jpeg",
+    "caption": "A waterfall cascading down rocky cliffs",
+    "category": "Nature"
+  },
+  {
+    "image": "food/image_11.jpeg",
+    "caption": "A plate of fresh sushi rolls with soy sauce",
+    "category": "World Cuisine"
+  },
+  {
+    "image": "food/image_12.jpeg",
+    "caption": "Traditional Italian pizza with mozzarella and basil",
+    "category": "World Cuisine"
+  },
+  {
+    "image": "food/image_13.jpeg",
+    "caption": "A bowl of spicy Thai red curry with rice",
+    "category": "World Cuisine"
+  },
+  {
+    "image": "food/image_14.jpeg",
+    "caption": "French croissants and coffee on a wooden table",
+    "category": "World Cuisine"
+  },
+  {
+    "image": "food/image_15.jpeg",
+    "caption": "Mexican tacos filled with meat and fresh vegetables",
+    "category": "World Cuisine"
+  },
+  {
+    "image": "animals/image_16.jpeg",
+    "caption": "A majestic lion resting in the African savanna",
+    "category": "Wildlife"
+  },
+  {
+    "image": "animals/image_17.jpeg",
+    "caption": "A group of elephants walking together near a watering hole",
+    "category": "Wildlife"
+  },
+  {
+    "image": "animals/image_18.jpeg",
+    "caption": "A colorful parrot perched on a tree branch",
+    "category": "Wildlife"
+  },
+  {
+    "image": "animals/image_19.jpeg",
+    "caption": "A polar bear standing on ice in the Arctic",
+    "category": "Wildlife"
+  },
+  {
+    "image": "animals/image_20.jpeg",
+    "caption": "A herd of zebras grazing in the grasslands",
+    "category": "Wildlife"
+  }
+]
