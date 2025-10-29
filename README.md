@@ -331,4 +331,3 @@ Todos los experimentos utilizan seeds fijos para garantizar reproducibilidad. Es
 **Autor**: Hugo Iglesias Pombo
 **Fecha**: 29 de Octubre de 2025
 **Asignatura**: Sistemas Interactivos Inteligentes
-**Palabras**: ~2,850
